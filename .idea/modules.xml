@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedTree/AdvancedTree.iml" filepath="$PROJECT_DIR$/AdvancedTree/AdvancedTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BonusLab/BonusLab.iml" filepath="$PROJECT_DIR$/BonusLab/BonusLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DivideAndConquer/DivideAndConquer.iml" filepath="$PROJECT_DIR$/DivideAndConquer/DivideAndConquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForString/ForString.iml" filepath="$PROJECT_DIR$/ForString/ForString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/LAB2/LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search/Search.iml" filepath="$PROJECT_DIR$/Search/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StableMatch/StableMatch.iml" filepath="$PROJECT_DIR$/StableMatch/StableMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeForSearch/TreeForSearch.iml" filepath="$PROJECT_DIR$/TreeForSearch/TreeForSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+    </modules>
+  </component>
+</project>
