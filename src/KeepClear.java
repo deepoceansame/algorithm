@@ -14,9 +14,22 @@ public class KeepClear {
 
 
     public static void main(String[] args) {
-        int a=Integer.MAX_VALUE;
-        int b=1;
-        System.out.println(a+b);
+        int n=16;
+        int[] a=new int[n];
+        for (int i=0;i<n;i++){
+            a[i]=i;
+        }
+        int lim = 0;
+        while((1 << lim) < n) lim++;
+        for(int i = 0; i < n; i++){
+            int t = 0;
+            for(int j = 0; j < lim; j++)
+                if(((i >> j) & 1)==1) t |= (1 << (lim - j - 1));
+            if(i < t) swap(i,t,a); // i < t 的限制使得每对点只被交换一次（否则交换两次相当于没交换）
+        }
+        for (int t:a){
+            System.out.println(t);
+        }
      }
 
      public static void swap(int i,int t,int[] a){

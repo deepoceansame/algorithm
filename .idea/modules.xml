@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/StableMatch/StableMatch.iml" filepath="$PROJECT_DIR$/StableMatch/StableMatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreeForSearch/TreeForSearch.iml" filepath="$PROJECT_DIR$/TreeForSearch/TreeForSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netflow/netflow.iml" filepath="$PROJECT_DIR$/netflow/netflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
     </modules>
   </component>
